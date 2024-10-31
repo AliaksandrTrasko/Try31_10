@@ -22,7 +22,6 @@ print(zwroc_ocene_warunek(lista))
 lista_wazona = [[4, 5], [1, 2], [2, 3.5]]
 from zadanie2_1 import oblicz_srednia_wazona
 print(oblicz_srednia_wazona(lista_wazona)) 
-#nie wiem dlaczego, ale w tym miejscu występuje błąd. dlatego dodałem moją próbę importu w komentarz
 
 srednia = sum(lista)/len(lista)
 from zadanie2_1 import zwroc_ocene_ze_sredniej
